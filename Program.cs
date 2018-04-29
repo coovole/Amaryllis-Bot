@@ -26,7 +26,7 @@ namespace AmaryllisBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string botToken = "NDM5NjU2NzU5Mjk3MTc5NjYz.DcWWRQ.NQrAasoJBfYpzJSEmlB4GX6NgfY";
+            string botToken = "INSERT TOKEN HERE";
 
             //event subscriptions
             _client.Log += Log;
