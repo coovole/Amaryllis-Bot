@@ -1,2 +1,2 @@
 # Amaryllis-Bot
-Yeah
+Yeah. It's a bot.
