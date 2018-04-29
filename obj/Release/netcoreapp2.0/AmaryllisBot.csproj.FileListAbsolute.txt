@@ -1,0 +1,12 @@
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Release\netcoreapp2.0\Dab\50093-full.png
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Release\netcoreapp2.0\AmaryllisBot.deps.json
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Release\netcoreapp2.0\AmaryllisBot.runtimeconfig.json
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Release\netcoreapp2.0\AmaryllisBot.runtimeconfig.dev.json
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Release\netcoreapp2.0\AmaryllisBot.dll
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Release\netcoreapp2.0\AmaryllisBot.pdb
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Release\netcoreapp2.0\AmaryllisBot.csprojResolveAssemblyReference.cache
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Release\netcoreapp2.0\AmaryllisBot.csproj.CoreCompileInputs.cache
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Release\netcoreapp2.0\AmaryllisBot.AssemblyInfoInputs.cache
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Release\netcoreapp2.0\AmaryllisBot.AssemblyInfo.cs
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Release\netcoreapp2.0\AmaryllisBot.dll
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Release\netcoreapp2.0\AmaryllisBot.pdb

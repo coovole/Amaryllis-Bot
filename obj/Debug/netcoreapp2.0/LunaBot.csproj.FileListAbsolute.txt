@@ -1,0 +1,11 @@
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Debug\netcoreapp2.0\LunaBot.deps.json
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Debug\netcoreapp2.0\LunaBot.runtimeconfig.json
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Debug\netcoreapp2.0\LunaBot.runtimeconfig.dev.json
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Debug\netcoreapp2.0\LunaBot.dll
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Debug\netcoreapp2.0\LunaBot.csprojResolveAssemblyReference.cache
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Debug\netcoreapp2.0\LunaBot.csproj.CoreCompileInputs.cache
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Debug\netcoreapp2.0\LunaBot.AssemblyInfoInputs.cache
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Debug\netcoreapp2.0\LunaBot.AssemblyInfo.cs
+C:\Users\coovo\source\repos\LunaBot\LunaBot\bin\Debug\netcoreapp2.0\LunaBot.pdb
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Debug\netcoreapp2.0\LunaBot.dll
+C:\Users\coovo\source\repos\LunaBot\LunaBot\obj\Debug\netcoreapp2.0\LunaBot.pdb
